@@ -48,7 +48,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Summer 2021 Quarterly Data Carpentry Ecology (Python) Workshop"
+title: "Quarterly SI Data Carpentry Workshop: Summer 2021 Edition"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
