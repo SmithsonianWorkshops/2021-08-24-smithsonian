@@ -13,8 +13,8 @@ humandate: "August 24-25 and August 31-September 1, 2021"    # human-readable da
 humantime: "1:00 pm - 4:00 pm ET"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-08-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-09-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["TBA"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Tauana Cunha", "Amanda Devine", "Jennifer Giaccai", "Mike Trizna", "Luis Villanueva"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Paula Pappalardo"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["si-datascience@si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-08-24-smithsonian  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: "166975868317"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
